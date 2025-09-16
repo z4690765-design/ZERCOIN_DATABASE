@@ -1,1 +1,1 @@
-# <div style:"red">ZERCOIN_DATABASE</div>
+ <div style:"red">ZERCOIN_DATABASE</div>
